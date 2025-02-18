@@ -7,12 +7,20 @@
   "options": {},
   "attributes": {
     "title": {
-      "type": "text"
+      "type": "text",
+      "required": true
     },
     "desc": {
       "type": "richtext"
     },
     "cta": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
       "type": "string"
     }
   }
