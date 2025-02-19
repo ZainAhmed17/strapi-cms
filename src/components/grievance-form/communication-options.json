@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_grievance_form_communication_options",
+  "info": {
+    "displayName": "communicationOptions"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}
